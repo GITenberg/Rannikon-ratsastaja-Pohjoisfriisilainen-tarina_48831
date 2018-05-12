@@ -1,9 +1,13 @@
 _repo: Rannikon-ratsastaja-Pohjoisfriisilainen-tarina_48831
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Peltonen, Ester
     gutenberg_agent_id: '44557'
     url: http://www.gutenberg.org/2009/agents/44557
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Storm, Theodor
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2128
     wikipedia: http://en.wikipedia.org/wiki/Theodor_Storm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48831#Rannikon-ratsastaja-Pohjoisfriisilainen-tarina
 gutenberg_issued: '2015-04-30'
 gutenberg_type: Text
 identifiers:
